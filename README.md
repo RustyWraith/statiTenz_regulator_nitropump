@@ -49,6 +49,7 @@ Print all parts in PETG. While PET performs adequately in liquid nitrogen, it ma
 ## Demo
 
 Watch a short demonstraition [here](https://youtu.be/WFPVAQTfw5o) and [here](https://youtu.be/W20JA836Wec).
+Or [here](https://rutube.ru/video/cd4911075f1441f6e3c4c198d58dbadf) and [here](https://rutube.ru/video/834853d1d1c72582e7ad7376b3be9698).
 
 ## Contact the author
 
