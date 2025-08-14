@@ -59,7 +59,7 @@ Create a new issue.
 [![donate][boosty-image]][boosty-link]  
 
 [boosty-link]: https://boosty.to/rustywraith/donate
-[boosty-image]: promo\boosty.png
+[boosty-image]: promo/boosty.png
 
 
 [![CC BY 4.0][cc-by-shield]][cc-by]  
