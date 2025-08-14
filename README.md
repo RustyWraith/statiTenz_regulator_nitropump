@@ -55,13 +55,13 @@ Watch a short demonstraition [here](https://youtu.be/WFPVAQTfw5o) and [here](htt
 Create a new issue.  
 
 ## Donate the author
+
 [![donate][boosty-image]][boosty-link]  
 
 [boosty-link]: https://boosty.to/rustywraith/donate
 [boosty-image]: promo\boosty.png
 
 
-## License
 [![CC BY 4.0][cc-by-shield]][cc-by]  
 [![CC BY 4.0][cc-by-image]][cc-by]  
 
